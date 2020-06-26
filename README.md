@@ -1,4 +1,4 @@
-Theasis experiments with the Knowledge Distillation 
+Thesis experiments with the Knowledge Distillation 
 ========================
 
 This repository contain experiments for the following datasets in corresponding directories:
